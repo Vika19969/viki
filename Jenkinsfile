@@ -3,5 +3,5 @@
 
 start_ci(AGENT: "slave", // Агент запуска джобы
         SONAR_AGENT: "slave",
-        PROCEDURE_SONAR_CHECK: false)
+        PROCEDURE_BDD_TEST : false)
                
