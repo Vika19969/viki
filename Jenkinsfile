@@ -1,5 +1,5 @@
 
-@Library('jenkins_libs') _
+@Library('vanessa-user') _
 
 start_ci(AGENT: "slave", // Агент запуска джобы
                 V8VERSION: "8.3.13", // Версия платформы 1С
