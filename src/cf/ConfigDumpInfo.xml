@@ -138,7 +138,7 @@
 		<Metadata name="CommonPicture.Планирование.Picture" id="4c40db73-17e0-4bf0-932c-d9d7481782c8.0" configVersion="566a607e66ab8a46a9cbc944663c081c00000000"/>
 		<Metadata name="CommonPicture.Сервис" id="cc8f7713-0dc5-404f-b6db-2b3a6c6a6756" configVersion="e33901fa2a885d49a2cfebcd07d4918e00000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="cc8f7713-0dc5-404f-b6db-2b3a6c6a6756.0" configVersion="0723796fb07ba8438578a6f67a5f767100000000"/>
-		<Metadata name="Configuration.Agiler" id="d5cf2ffe-2a56-11e6-a99d-0242ac110009" configVersion="e06525e4f870ee478d33f67c4b5ca8fd00000000"/>
+		<Metadata name="Configuration.Agiler" id="d5cf2ffe-2a56-11e6-a99d-0242ac110009" configVersion="d987d35e50092d4a99a82d0058057a2a00000000"/>
 		<Metadata name="Configuration.Agiler.ClientApplicationInterface" id="d5cf3012-2a56-11e6-a99d-0242ac110009.b" configVersion="a8729b9a8a99af44a517e84457be373900000000"/>
 		<Metadata name="Configuration.Agiler.Help" id="d5cf3012-2a56-11e6-a99d-0242ac110009.3" configVersion="5ac7efcbcd1775418bac9052cbeafcc700000000"/>
 		<Metadata name="Configuration.Agiler.HomePageWorkArea" id="d5cf3012-2a56-11e6-a99d-0242ac110009.8" configVersion="800f4e3808d90f4aac42d85d45503f5900000000"/>
@@ -173,6 +173,7 @@
 		<Metadata name="DataProcessor.ПланИтерацийПроектов" id="07577a0d-324c-4546-af6d-e0e364a4082e" configVersion="6adb8ac318923d44b6265f857c58de9300000000"/>
 		<Metadata name="DataProcessor.ПланИтерацийПроектов.Form.Форма" id="9c971bf6-9561-4482-a9d2-1851ba58a1f2" configVersion="de64341de3eeb04aa083954fdeb87f3d00000000"/>
 		<Metadata name="DataProcessor.ПланИтерацийПроектов.Form.Форма.Form" id="9c971bf6-9561-4482-a9d2-1851ba58a1f2.0" configVersion="a2dcf504a8d0fd4e9475e17eb27ad26800000000"/>
+		<Metadata name="Document.Новый" id="3299d911-1e84-48c5-89b0-25117bd87cb1" configVersion="45a6e77d36ea54499c816622259daa1b00000000"/>
 		<Metadata name="Document.ОпросSAFe" id="ca86aa7f-6563-418b-8c39-a4b540f947aa" configVersion="ca70a7c571dd7d49afe800af450955a100000000">
 			<Metadata name="Document.ОпросSAFe.Attribute.ИтерацияПоПроекту" id="5802c218-97a2-4a04-85ea-eb51c1fdddcb"/>
 			<Metadata name="Document.ОпросSAFe.Attribute.Проект" id="f9f69432-c395-486f-89cf-a2264af2db37"/>
